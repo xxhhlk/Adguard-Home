@@ -8,7 +8,7 @@
 ||*pps*^$dnstype=~CNAME
 ||*7niu*^$dnstype=~CNAME
 ||*mcdn*^
-||*hcdn*^
+||*hcdn*^$dnstype=~CNAME
 ||*ppio*^$dnstype=~CNAME
 ||*pcdn*^
 ||*xlive*^
