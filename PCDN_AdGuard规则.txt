@@ -8,10 +8,10 @@
 !pps不加点会拦截苹果。
 ||*pps.*^$dnstype=~CNAME
 ||*7niu.*^$dnstype=~CNAME
-||*mcdn*^
-||*hcdn*^$dnstype=~CNAME
+||*.mcdn*^
+||*.hcdn*^$dnstype=~CNAME
 ||*ppio*^$dnstype=~CNAME
-||*pcdn*^$dnstype=~CNAME
+||*.pcdn*^$dnstype=~CNAME
 ||*xlive*^
 ||*wsglw*^
 ||*yfp2p*^
