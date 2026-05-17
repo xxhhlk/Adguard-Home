@@ -1,4 +1,4 @@
-!自用的放行规则以及少量屏蔽规则
+!自用的放行规则以及少量屏蔽规则，直接在自定义规则里面填写，而不是订阅
 @@||ad.qiliangfu.com^$important
 @@||e2cs18.gcp.gvt2.com^$important
 @@||gvt2.com^$important
