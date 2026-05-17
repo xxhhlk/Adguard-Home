@@ -10,9 +10,9 @@
 @@||mask.apple-dns.net^$important
 @@||mask.icloud.com^$important
 ! ---------- [2. 关键词抑制：广谱拦截 PCDN 厂商] ----------
-||*pcdn*^
-||*mcdn*^
-||*hcdn*^$dnstype=~CNAME
+||*.pcdn*^$dnstype=~CNAME
+||*.mcdn*^
+||*.hcdn*^$dnstype=~CNAME
 ||*ppio*^
 ||*onething*^
 ||*pkoplink*^
