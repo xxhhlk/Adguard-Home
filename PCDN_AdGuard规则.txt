@@ -5,8 +5,8 @@
 
 
 !
-||*pps*^$dnstype=~CNAME
-||*7niu*^$dnstype=~CNAME
+||*pps.*^$dnstype=~CNAME 会拦截苹果。
+||*7niu.*^$dnstype=~CNAME
 ||*mcdn*^
 ||*hcdn*^$dnstype=~CNAME
 ||*ppio*^$dnstype=~CNAME
