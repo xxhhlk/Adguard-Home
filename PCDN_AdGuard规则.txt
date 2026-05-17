@@ -59,6 +59,6 @@
 ||*stun.douyucdn.cn*^
 ||*stun1.douyucdn.cn*^
 ||*flive.douyincdn.com^
-||*ncdn*^$dnstype=~CNAME
+||.ncdn*.*^$dnstype=~CNAME
 ||*jomodns*^$dnstype=~CNAME
 ||*pull-hs-f5-hot.flive.douyincdn.com^
