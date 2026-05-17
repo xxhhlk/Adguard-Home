@@ -11,7 +11,7 @@
 ||*mcdn*^
 ||*hcdn*^$dnstype=~CNAME
 ||*ppio*^$dnstype=~CNAME
-||*pcdn*^
+||*pcdn*^$dnstype=~CNAME
 ||*xlive*^
 ||*wsglw*^
 ||*yfp2p*^
