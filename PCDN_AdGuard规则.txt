@@ -14,7 +14,7 @@
 ||*d.kugou*
 ||*doubleclick*
 ||*dyp2p*
-||*flive.douyincdn.com*
+||*flive.douyincdn.com
 ||*gjfzpt*
 ||*hcdn*
 ||*ietheivaicai*
@@ -47,7 +47,7 @@
 ||*ppio*
 ||*pps*
 ||*pscdn*
-||*pull-hs-f5-hot.flive.douyincdn.com*
+||*pull-hs-f5-hot.flive.douyincdn.com
 ||*qiniu*
 ||*qtp2p*
 ||*saxysec*
