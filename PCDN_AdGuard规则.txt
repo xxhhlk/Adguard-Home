@@ -5,7 +5,8 @@
 
 
 !
-||*pps.*^$dnstype=~CNAME 会拦截苹果。
+!pps不加点会拦截苹果。
+||*pps.*^$dnstype=~CNAME
 ||*7niu.*^$dnstype=~CNAME
 ||*mcdn*^
 ||*hcdn*^$dnstype=~CNAME
