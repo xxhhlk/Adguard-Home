@@ -12,7 +12,7 @@
 ! ---------- [2. 关键词抑制：广谱拦截 PCDN 厂商] ----------
 ||*pcdn*^
 ||*mcdn*^
-||*hcdn*^
+||*hcdn*^$dnstype=~CNAME
 ||*ppio*^
 ||*onething*^
 ||*pkoplink*^
